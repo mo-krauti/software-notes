@@ -16,3 +16,12 @@ network={
     key_mgt="WPA-PSK"
 }
 ```
+
+```bash
+echo 'mypassword' | openssl passwd -6 -stdin
+e userconf
+```
+userconf
+```
+username:encrypted-password
+```
