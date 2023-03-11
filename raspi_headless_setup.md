@@ -13,7 +13,6 @@ country=DE
 network={
     ssid="your_wifi_ssid"
     psk="wifi_password_here"
-    key_mgt="WPA-PSK"
 }
 ```
 
