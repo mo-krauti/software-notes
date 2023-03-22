@@ -9,6 +9,9 @@ After=bluetooth.target pulseaudio.service
 StartLimitIntervalSec=60
 StartLimitBurst=5
 
+[Install]
+WantedBy=multi-user.target
+
 [Service]
 ExecStart=/usr/local/bin/systemd-bluetooth.sh %i
 Restart=on-failure
