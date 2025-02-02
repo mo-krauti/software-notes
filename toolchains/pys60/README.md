@@ -1,8 +1,8 @@
 # Python for S60
 
-We will need to run python 2.5, so we will install ubuntu-8.04 hardy which contains this version.
+We will need to run python 2.5, so we will install ubuntu-8.04 hardy in a VM which contains this version.
 
-## Ubuntu 8.04 setup
+## Ubuntu 8.04 VM setup
 
 ```bash
 wget https://old-releases.ubuntu.com/releases/8.04.0/ubuntu-8.04.4-server-amd64.iso
@@ -50,6 +50,7 @@ scp -r PythonForS60/ ubuntu-hardy-vm:
 ```
 
 ## example build
+
 ```bash
 mkdir hello-world-app
 cd hello-world-app
@@ -60,4 +61,5 @@ scp ubuntu-hardy-vm:PythonForS60/hello-world-app_v1_0_0.sis .
 ```
 
 ## run app on phone
-Install the necessary libs and python interpreter `.sis` first. Then install and run your app.
+
+Install the necessary libs and python interpreter `.sis` packages first. Then install and run your app.

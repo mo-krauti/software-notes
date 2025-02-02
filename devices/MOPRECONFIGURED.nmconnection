@@ -1,0 +1,21 @@
+[connection]
+
+id=SSID
+uuid= # random UUID in the format 11111111-1111-1111-1111-111111111111
+type=wifi
+autoconnect=true
+
+[wifi]
+mode=infrastructure
+ssid=SSID
+
+[wifi-security]
+auth-alg=open
+key-mgmt=wpa-psk
+psk=PASSWORD
+
+[ipv4]
+method=auto
+
+[ipv6]
+method=auto
