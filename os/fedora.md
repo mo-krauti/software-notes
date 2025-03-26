@@ -4,7 +4,11 @@
 1. Download SauceCodePro
 2. Extract
 3. `chmod 755 SourceCodePro`
-4. copy to `/usr/share/fonts` ## ssh ```fish
+4. copy to `/usr/share/fonts`
+
+
+## ssh
+```fish
 systemctl --user enable --now ssh-agent
 ```
 
@@ -17,9 +21,5 @@ sudo dnf install zathura-pdf-poppler
 xdg-mime default zathura.desktop application/pdf
 ```
 
-
-## firefox
-
-Set pdf to system handler. 
-
-Setup [hardware acceleration](https://fedoraproject.org/wiki/Firefox_Hardware_acceleration)
+## thinkpad docking stations
+Install [displaylink-rpm](https://github.com/displaylink-rpm/displaylink-rpm)
