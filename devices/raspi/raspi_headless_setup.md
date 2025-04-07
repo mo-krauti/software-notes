@@ -21,6 +21,8 @@ echo $RASPI_PASSWORD | openssl passwd -6 -stdin | awk '{print "mo:" $0}' > userc
 
 ### since raspbian bookworm
 
+fix wifi country code to unblock rf
+
 ```fish
 set -x NMCONNECTION_FILE_LOCATION /run/media/mo/rootfs/etc/NetworkManager/system-connections/MOPRECONFIGURED.nmconnection
 sudo cp MOPRECONFIGURED.nmconnection $NMCONNECTION_FILE_LOCATION

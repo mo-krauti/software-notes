@@ -12,6 +12,11 @@
 systemctl --user enable --now ssh-agent
 ```
 
+## automatic disk mounting as user
+```fish
+systemctl --user enable --now udiskie
+```
+
 ## fido2
 See [here](https://fedoramagazine.org/use-systemd-cryptenroll-with-fido-u2f-or-tpm2-to-decrypt-your-disk/)
 
