@@ -1,5 +1,3 @@
-# rockbox
-
 ## dev setup
 
 Tested with ubuntu 22.04

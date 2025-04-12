@@ -1,4 +1,4 @@
-# setup
+Setting up some things for fedora.
 
 ## fonts
 1. Download SauceCodePro

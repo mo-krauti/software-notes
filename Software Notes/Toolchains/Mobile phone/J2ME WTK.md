@@ -1,6 +1,6 @@
-# java me development setup
+This is one of the original development setups of J2ME.
 
-From Ubuntu 20.04:
+Using Ubuntu 20.04:
 ```bash
 sudo dpkg --add-architecture i386
 sudo apt update

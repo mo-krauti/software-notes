@@ -1,5 +1,4 @@
-# cups network printer
-make a usb printer network accessible
+make a usb printer network accessible.
 
 ## printer
 ```bash

@@ -1,5 +1,3 @@
-# dkms
-
 ## secure boot setup
 
 Create key:

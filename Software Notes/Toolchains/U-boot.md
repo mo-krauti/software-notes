@@ -1,5 +1,3 @@
-# U-boot
-
 ## compiling
 
 Install the `arm-none-eabi-` toolchain.

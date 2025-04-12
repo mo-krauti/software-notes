@@ -1,5 +1,3 @@
-# manage bluetooth device connections with systemd
-
 ## systemd service
 `/etc/systemd/system/bluetooth-device@.service`
 ```

@@ -1,5 +1,3 @@
-# Python for S60
-
 We will need to run python 2.5, so we will install ubuntu-8.04 hardy in a VM which contains this version.
 
 ## Ubuntu 8.04 VM setup

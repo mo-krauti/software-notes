@@ -1,5 +1,3 @@
-# arm-none-eabi-
-
 ```fish
 sudo dnf install arm-none-eabi-gcc arm-none-eabi-g++ arm-none-eabi-newlib clangd
 ```

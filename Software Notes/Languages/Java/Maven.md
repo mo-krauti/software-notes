@@ -1,4 +1,4 @@
-# java maven project example
+This is a java maven project example
 
 See the example `pom.xml`.  
 

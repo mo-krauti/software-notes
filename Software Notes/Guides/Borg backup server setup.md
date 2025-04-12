@@ -1,4 +1,3 @@
-# borg backup server
 Using fedora
 ```bash
 sudo useradd backup
