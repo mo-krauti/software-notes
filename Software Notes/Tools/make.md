@@ -1,5 +1,3 @@
-# make
-
 ## generating compile_commands.json
 Tools:
 * [bear](https://github.com/rizsotto/Bear)

@@ -1,4 +1,4 @@
-This is one of the original development setups of J2ME.
+This is one of the original development setups of J2ME. I recommend [[J2ME Maven]] instead.
 
 Using Ubuntu 20.04:
 ```bash

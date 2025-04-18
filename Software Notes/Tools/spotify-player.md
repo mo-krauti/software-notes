@@ -1,5 +1,3 @@
-# spotify-player
-
 Install
 ```fish
 sudo dnf install install openssl-devel alsa-lib-devel dbus-devel

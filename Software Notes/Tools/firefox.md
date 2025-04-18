@@ -1,5 +1,3 @@
-# firefox
-
 Set pdf to system handler. 
 
 Setup [hardware acceleration for fedora](https://fedoraproject.org/wiki/Firefox_Hardware_acceleration)

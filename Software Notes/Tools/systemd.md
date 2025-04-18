@@ -1,5 +1,3 @@
-# systemd
-
 ## timers
 
 transient user timer:

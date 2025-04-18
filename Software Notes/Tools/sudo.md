@@ -1,5 +1,3 @@
-# sudo
-
 use `visudo` for editing.  
 sudo for wheel members without password:
 ```

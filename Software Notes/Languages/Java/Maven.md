@@ -1,6 +1,6 @@
 This is a java maven project example
 
-See the example `pom.xml`.  
+See the example [[pom.xml]].  
 
 ## install project to local repo
 ```bash

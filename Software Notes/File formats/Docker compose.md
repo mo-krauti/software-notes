@@ -1,5 +1,3 @@
-# docker compose
-
 [reference](https://docs.docker.com/reference/compose-file/)
 
 ## healthchecks
