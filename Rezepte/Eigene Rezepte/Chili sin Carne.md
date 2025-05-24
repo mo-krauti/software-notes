@@ -9,7 +9,7 @@ Mit Bohnen, Mais und Chili :) Sehr lecker und wenig Aufwand.
 - *1 Dose* weiße Riesenbohnen
 - *200g* Tofu
 - *1* Paprika
-- *500g passierte Tomaten*
+- *500g* passierte Tomaten
 - *2* Zwiebeln
 - *nach belieben* Jalapenos / Chilischoten
 - *1 Messerspitze* sehr scharfes Chili

@@ -1,0 +1,6 @@
+* [Karottenkuchen (vegan)](https://biancazapatka.com/de/saftiger-und-einfacher-karottenkuchen-moehrenkuchen-rueblikuchen-vegan/#recipe)
+* [russischer Zupfkuchen](https://www.einfachbacken.de/rezepte/russischer-zupfkuchen-omas-rezept)
+* Baumkuchen (Rezept noch auf Papier)
+* [New York Cheesecake mit Spekulatius Boden](https://www.einfachmalene.de/spekulatius-new-york-cheesecake-cremig-lecker)
+* [Apfel Streusel Kuchen (vegan möglich)](https://www.backenmachtgluecklich.de/rezepte/apfel-streusel-kuchen.html#wprm-recipe-container-429239)
+* [Bananenbrot](https://heissehimbeeren.com/bananenbrot-vegan-super-fluffig-mit-extra-viel-banane/)
