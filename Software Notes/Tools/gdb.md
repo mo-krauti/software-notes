@@ -4,6 +4,7 @@
 * [threads](https://sourceware.org/gdb/current/onlinedocs/gdb.html/Threads.html)
 * [debugging hardfaults](https://interrupt.memfault.com/blog/cortex-m-hardfault-debug)
 * [improved terminal interface](https://github.com/cyrus-and/gdb-dashboard)
+* [memory breakpoints](https://stackoverflow.com/questions/58851/can-i-set-a-breakpoint-on-memory-access-in-gdb)
 
 ## viewing registers using svd
 
