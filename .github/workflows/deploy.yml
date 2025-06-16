@@ -3,7 +3,7 @@ name: deploy notes to GitHub pages
 on:
   push:
     branches:
-      - v4
+      - main
  
 permissions:
   contents: read
