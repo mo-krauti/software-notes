@@ -1,6 +1,6 @@
 Mit Bohnen, Mais und Chili :) Sehr lecker und wenig Aufwand.
 
-**? Portionen (TODO)**
+**5 Portionen**
 
 ---
 

@@ -1,6 +1,6 @@
 Mit veganem Hack.
 
-**x Portionen**
+**4-6 Wraps**
 
 ---
 
