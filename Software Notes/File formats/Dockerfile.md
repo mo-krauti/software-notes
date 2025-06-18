@@ -1,4 +1,4 @@
-### add user
+## add user
 
 ```dockerfile
 ARG USERNAME=user
@@ -9,7 +9,7 @@ RUN groupadd --gid $USER_GID $USERNAME \
 USER $USERNAME
 ```
 
-### install packages
+## install packages
 
 Fedora:
 ```dockerfile
