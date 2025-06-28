@@ -1,3 +1,5 @@
+![Bild vom Chili sin Carne](Chili sin Carne.jpeg)
+
 Mit Bohnen, Mais und Chili :) Sehr lecker und wenig Aufwand.
 
 **5 Portionen**

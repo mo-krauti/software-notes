@@ -6,7 +6,7 @@ Mit Karotten. Dazu Nudeln, Spätzle oder Pfannenkuchen servieren.
 
 - *500g* passierte Tomaten
 - *350g* rote Linsen
-- *350g* Karotten Linsen
+- *350g* Karotten
 - *2-3* Zwiebeln
 - *3-5* Knoblauchzehen
 - *ein wenig* Wein
