@@ -14,3 +14,7 @@
 
 - Yuval Noah Harari - Sapiens: A brief history of humandkind
 - Hermann Hesse - Demian
+
+**07/25:**
+
+- Bernhard Schlink - Der Vorleser
