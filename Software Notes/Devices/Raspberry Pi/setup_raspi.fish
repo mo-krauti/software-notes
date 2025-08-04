@@ -1,3 +1,4 @@
+#!/usr/bin/fish
 
 pushd /run/media/mo/bootfs/
 touch ssh
