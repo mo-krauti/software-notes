@@ -11,6 +11,7 @@ Mit veganem Hack.
 - *1 Glas* eingelegte Jalapenjos
 - *1* Paprika
 - *einige* Cherrytomaten
+- *ein wenig* Käse
 - *1-2* Zwiebeln
 - *2* Knoblauchzehen
 - *1* (veganen) Yoghurt
@@ -18,7 +19,8 @@ Mit veganem Hack.
 
 ---
 
-- Zwiebeln & Hack anbraten
+- Zwiebeln & Hack anbraten, würzen
 - Knoblauch hacken & mit Yoghurt zu einem Dip verrühren
 - Paprika & Tomaten schneiden
 - alle Zutaten in den Wrap geben & dann aufrollen
+- Wrap in eine Pfanne ohne Öl geben & kurz anrösten
