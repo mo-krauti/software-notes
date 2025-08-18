@@ -18,3 +18,7 @@ ENABLE_UART = "1"
 
 [Modify the linux kernel with configuration fragments in Yocto](https://wiki.koansoftware.com/index.php/Modify_the_linux_kernel_with_configuration_fragments_in_Yocto)  
 This also works for U-boot.
+
+## minimize rootfs size
+
+Extract the rootfs and have a look at its disk usage using ncdu.
