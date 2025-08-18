@@ -1,10 +1,13 @@
-We will need to run python 2.5, so we will install ubuntu-8.04 hardy in a VM which contains this version.
+We will need to run python 2.5, so we will install ubuntu-8.04 hardy in a VM which contains this version. 
+Tested on Fedora 42.
 
 ## Ubuntu 8.04 VM setup
 
+Edit `/etc/libvirt/network.conf` and set `firewall_backend = "iptables"`
+
 ```bash
 wget https://old-releases.ubuntu.com/releases/8.04.0/ubuntu-8.04.4-server-amd64.iso
-systemctl start libvirtd-networkd
+systemctl start virtnetworkd
 virt-install --name ubuntu-8.04-server --memory 4000 --noreboot \
                                               --os-variant detect=on,name=ubuntuhardy \
                                               --disk=size=10,backing_store="$(pwd)/ubuntu-8.04.4-server-amd64.iso" \
@@ -20,6 +23,8 @@ Host ubuntu-hardy-vm
     HostkeyAlgorithms +ssh-rsa
     SetEnv TERM=xterm
 ```
+[Enable legacy openssl policies](https://serverfault.com/questions/1125843/error-in-libcrypto-connecting-rhel-9-server-to-centos-6-via-sftp-ssh) (required for Fedora >= 41).
+
 Add public key to vm:
 ```bash
 ssh-copy-id -i ~/.ssh/id_rsa.pub ubuntu-hardy-vm
@@ -35,7 +40,7 @@ deb http://old-releases.ubuntu.com/ubuntu hardy-updates main multiverse restrict
 Install openssl
 ```bash
 sudo apt-get update
-sudo apt-get openssl
+sudo apt-get install openssl
 ```
 
 ## ensymble setup
@@ -61,3 +66,9 @@ scp ubuntu-hardy-vm:PythonForS60/hello-world-app_v1_0_0.sis .
 ## run app on phone
 
 Install the necessary libs and python interpreter `.sis` packages first. Then install and run your app.
+
+## PC Simulator
+
+```bash
+apt-get install python-wxgtk2.6 python-qt4 xauth
+```

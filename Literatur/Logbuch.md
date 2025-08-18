@@ -15,6 +15,10 @@
 - Yuval Noah Harari - Sapiens: A brief history of humandkind
 - Hermann Hesse - Demian
 
+**06/25:**
+
+- Ferdinand von Schirach - Kaffee und Zigaretten
+
 **07/25:**
 
 - Bernhard Schlink - Der Vorleser

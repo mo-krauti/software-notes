@@ -1,2 +1,4 @@
+- Balzac
+- Seyda Kurt - Radikale Zärtlichkeit
 - Edward S. Herman & Noam Chomsky - Manufacturing Consent: The Political Economy of the Mass Media
 - Emile Zola - Germinal
