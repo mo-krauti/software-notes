@@ -1,6 +1,6 @@
 Add gsm connection:
 ```bash
-nmcli c add type gsm ifname <interface> con-name <name> apn <operator_apn> username <user> password <password> pin <PIN>
+nmcli c add type gsm ifname <interface> con-name <name> gsm.apn <operator_apn> gsm.username <user> gsm.password <password> gsm.pin <PIN>
 ```
   
 [MAC adrress randomization](https://fedoramagazine.org/randomize-mac-address-nm/)

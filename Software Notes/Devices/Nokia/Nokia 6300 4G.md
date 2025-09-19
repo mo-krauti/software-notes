@@ -7,7 +7,7 @@ Download:
   * [lk2nd-msm8909.img](https://github.com/msm8916-mainline/lk2nd/releases/download/20.0/lk2nd-msm8909.img) secondary bootloader
   * [8k.mbn](https://edl.bananahackers.net/loaders/8k.mbn) edl loader
 
-Install [[edl]]. Enable debugging by dialing `*#*#33284#*#*`
+Install [[edl.py]]. Enable debugging by dialing `*#*#33284#*#*`
 ```bash
 adb reboot recovery
 # make sure it reports ID 05c6:9008 Qualcomm, Inc. Gobi Wireless Modem (QDL mode)
@@ -32,6 +32,8 @@ pmbootstrap flasher flash_kernel
 pmbootstrap install --disk=/dev/sdd
 ```
 
+## device setup
+
 On device:
 ```bash
 sudo tinydm-set-session -f -s /usr/share/wayland-sessions/bananui.desktop
@@ -43,10 +45,17 @@ echo panel-mipi-dbi | sudo tee /etc/modules-load.d/panel-mipi-dbi.conf
 export WAYLAND_DISPLAY=wayland-1
 alacritty
 ```
+Increase time to wait for detecting the sim card:
+
+`/etc/systemd/system/msm-modem-uim-selection.service.d/override.conf`
+```
+[Service]
+Environment=SIM_WAIT_TIME=15
+```
 
 Additional installed packages:
 ```
-sway tmux fish htop modemmanager
+sway tmux fish htop modemmanager msm-modem-wwan-port msm-modem-wwan-port-systemd
 ```
 
 ## Links

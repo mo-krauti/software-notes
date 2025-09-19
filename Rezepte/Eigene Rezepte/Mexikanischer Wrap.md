@@ -22,3 +22,9 @@ Mit veganem Hack.
 - Knoblauch hacken & mit Yoghurt zu einem Dip verrühren
 - Paprika & Tomaten schneiden
 - alle Zutaten in den Wrap geben & dann aufrollen
+
+---
+
+Ideen:
+
+- Dazu [Bohnenpaste](https://julesmenu.de/mexikanische-bohnenpaste/#recipe)
