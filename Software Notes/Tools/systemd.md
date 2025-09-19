@@ -1,5 +1,7 @@
 ## targets
 
+[Bootup process graph](https://www.freedesktop.org/software/systemd/man/latest/bootup.html)
+
 ### `network-online.target`
 See [systemd docs](https://systemd.io/NETWORK_ONLINE/)
 If `systemd-networkd` and [[NetworkManager]] are running in parallel, 

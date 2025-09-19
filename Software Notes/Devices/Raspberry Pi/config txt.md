@@ -26,7 +26,7 @@ Default configuration:
 
 To swap this, add
 ```
-dtoverlay=pi3-miniuart-bt
+dtoverlay=miniuart-bt
 ```
 to `config.txt`
 
